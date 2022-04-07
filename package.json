@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Danko-Denchuk/Arde/issues"
   },
-  "homepage": "https://github.com/Danko-Denchuk/Arde#readme"
+  "homepage": "https://github.com/Danko-Denchuk/Arde#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
